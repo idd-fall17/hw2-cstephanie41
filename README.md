@@ -24,7 +24,7 @@ I definitely learned a lot from this project, mostly in the coding aspect of the
 
 https://www.youtube.com/watch?v=o4GXKTwEHlM
 
-hw2-cstephanie41/Text Entry Device.jpeg
+./hw2-cstephanie41/Text Entry Device.jpeg
 
 License
 -------
