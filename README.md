@@ -20,11 +20,11 @@ Physical Device
 Unfortunately, I did not have time to create a physical device for the buttons. I left town for a conference in NYC on Thursday, and so I didn’t have access to any 3D printers or laser cutters. However, if I had been on campus, I would have probably 3D printed a snap fit enclosure for the buttons, so that the user could hold onto the device while typing. I also would have added labels onto the enclosure so that it was clear which button was which.  
 
 
-I definitely learned a lot from this project, mostly in the coding aspect of the work. I’ve never programmed with Java or on the Android platform, so it was definitely interesting learning about the program and about the hierarchy of Java. It was also useful practicing my soldering skills, as I haven’t soldered straight onto a board before this project. Overall, I thought the project was very useful and informative. My one issue was that I wish I had had more time to work on it before I left for my conference so that I could complete the enclosure aspect of the device. Pictures of my final device and of the wiring and breadboard diagrams are shown below. The video link is also shown below.
+I definitely learned a lot from this project, mostly in the coding aspect of the work. I’ve never programmed with Java or on the Android platform, so it was definitely interesting learning about the program and about the hierarchy of Java. It was also useful practicing my soldering skills, as I haven’t soldered straight onto a board before this project. Overall, I thought the project was very useful and informative. My one issue was that I wish I had had more time to work on it before I left for my conference so that I could complete the enclosure aspect of the device. The video link is also shown below.
 
 https://www.youtube.com/watch?v=o4GXKTwEHlM
 
-../hw2-cstephanie41/Text Entry Device.jpeg
+
 
 License
 -------
